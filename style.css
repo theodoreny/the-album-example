@@ -66,11 +66,18 @@ h3 {
   justify-content: center;
   color: white;
   background-color: black;
-  font-size: 1.3em;
 }
 h3 {
-  font-size: 22px;
+  font-size: 2em;
 }
 a:hover {
   color: white;
+}
+h1 {
+  font-size: 3em;
+  
+}
+summary {
+  font-size: 1em;
+  
 }

@@ -4,21 +4,27 @@
 }
 #button1 {
   text-align: center;
-  background-color: lightblue;
+  background-color: 
+#87CEFA;
   color: white;
   border-style: 20px solid transparent;
-  border-radius: 25px;
-  weight: 20px;
+  border-radius: 10px;
+  weight: 100px;
   height: 50px;
-  width: 10px;
+  width: 200px;
+  display: inline-block; 
+margin-right: 10px;
+  font-size: 14px;
 }
 #button2 {
   text-align: center;
   background-color: grey;
   color: white;
   border-style: 20px solid transparent;
-  border-radius: 25px;
-  weight: 50px;
-  height: 40px;
-  qidth: 30px;
+  border-radius: 10px;
+  weight: 100px;
+  height: 50px;
+  width: 200px;
+  display: inline-block;
+  font-size: 14px;
 }

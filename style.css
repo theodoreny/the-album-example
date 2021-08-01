@@ -33,7 +33,7 @@
   color: white;
   font-family: "Gowun Dodum", sans-serif;
 }
-#button1 {
+#button1:visted {
   background-color: #87CEFA;
   border: solid transparent;
   border-radius: 20px;

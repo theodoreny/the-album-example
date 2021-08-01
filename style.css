@@ -2,6 +2,7 @@
   text-align: center;
   font-family: "Georama", sans-serif;
 }
+/* on hold code 
 #button1 {
   text-align: center;
   background-color: #87CEFA;
@@ -12,7 +13,6 @@
   height: 50px;
   width: 200px;
   font-size: 14px;
-  flex-direction: row;
   margin-left:200px;
 }
 #button2 {
@@ -25,5 +25,16 @@
   height: 50px;
   width: 200px;
   font-size: 14px;
-  flex-direction: row;
+
+}
+*/
+.button {
+  text-align: center;
+  height: 50px;
+  weight: 100px;
+  border-style: 20px solid transparent;
+  border-radius: 10px;
+}
+#button1 {
+  black
 }

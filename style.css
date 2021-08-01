@@ -30,16 +30,15 @@
 */
 .button {
   text-align: center;
-  height: 50px;
-  border: 10px solid transparent;
-  border-radius: 10px;
   color: white;
- flex-direction: row;
-  
 }
 #button1 {
   background-color: #87CEFA;
+  border: solid transparent;
+  border-radius: 20px;
 }
 #button2 {
   background-color: grey;
+  border: solid transparent;
+  border-radius: 20px;
 }

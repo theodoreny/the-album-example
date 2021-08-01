@@ -1,6 +1,6 @@
 .center {
   text-align: center;
-  font-family: 'Gowun Dodum', sans-serif;
+  font-family: "Gowun Dodum", sans-serif;
 }
 /* on hold code 
 #button1 {
@@ -31,7 +31,7 @@
 .button {
   text-align: center;
   color: white;
-  font-family: 'Gowun Dodum', sans-serif;
+  font-family: "Gowun Dodum", sans-serif;
 }
 #button1 {
   background-color: #87CEFA;
@@ -46,13 +46,17 @@
   padding: 10px;
 }
 #droplink {
-  
+}
+.box {
+  display: block;
+  border: 1px outset black;
+  padding: 15px;
+  width: 200px;
   
 }
-.auto {
-            display:block;
-            border: 1px outset black;
-            padding:5px;
-           width: 300px;
-             height: 150px;
+h2 {
+  font-size: 30px;
+}
+#box1 {
+  text-align: right
 }

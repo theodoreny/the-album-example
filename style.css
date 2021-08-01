@@ -31,10 +31,15 @@
 .button {
   text-align: center;
   height: 50px;
-  weight: 100px;
-  border-style: 20px solid transparent;
+  border: 10px solid transparent;
   border-radius: 10px;
+  color: white;
+ flex-direction: row;
+  
 }
 #button1 {
-  black
+  background-color: #87CEFA;
+}
+#button2 {
+  background-color: grey;
 }

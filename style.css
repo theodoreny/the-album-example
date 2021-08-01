@@ -37,9 +37,15 @@
   background-color: #87CEFA;
   border: solid transparent;
   border-radius: 20px;
+  padding: 10px;
 }
 #button2 {
   background-color: grey;
   border: solid transparent;
   border-radius: 20px;
+  padding: 10px;
+}
+#droplink {
+  
+  
 }

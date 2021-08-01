@@ -33,7 +33,7 @@
   color: white;
   font-family: "Gowun Dodum", sans-serif;
 }
-#button1:visted {
+#button1 {
   background-color: #87CEFA;
   border: solid transparent;
   border-radius: 20px;
@@ -60,11 +60,17 @@ h3 {
   font-family: "Georama", sans-serif;
 }
 .layout {
- border: solid;
-padding: 5px;
- display: flex;
+  border: solid;
+  padding: 5px;
+  display: flex;
   justify-content: center;
+  color: white;
+  background-color: black;
+  font-size: 1.3em;
 }
 h3 {
   font-size: 22px;
+}
+a:hover {
+  color: white;
 }

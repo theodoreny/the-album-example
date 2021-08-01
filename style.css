@@ -60,6 +60,8 @@ h3 {
   font-family: "Georama", sans-serif;
 }
 .layout {
- background-color: black;
-color: white;
+ border: solid;
+padding: 5px;
+ display: flex;
+  justify-content: center;
 }

@@ -48,7 +48,9 @@
 #droplink {
 }
 .box {
-  
+  display: block;
+  border: 1px outset black;
+  padding: 15px;
 }
 h2 {
   font-size: 2em;
@@ -71,6 +73,7 @@ h3 {
   display: block;
   border: 1px outset black;
   padding: 15px;
+  color: white;
 }
 a:hover {
   color: white;

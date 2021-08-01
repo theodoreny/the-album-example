@@ -1,4 +1,5 @@
-.main {
+.center {
   text-align: center;
-  
+  font-family: 'Georama', sans-serif; 
+  word-warp: break-word;
 }

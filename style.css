@@ -1,6 +1,6 @@
 .center {
   text-align: center;
-  font-family: "Georama", sans-serif;
+  font-family: 'Gowun Dodum', sans-serif;
 }
 /* on hold code 
 #button1 {
@@ -31,6 +31,7 @@
 .button {
   text-align: center;
   color: white;
+  font-family: 'Gowun Dodum', sans-serif;
 }
 #button1 {
   background-color: #87CEFA;

@@ -51,10 +51,15 @@
   display: block;
   border: 1px outset black;
   padding: 15px;
-  width: 200px;
-  
-  
 }
 h2 {
   font-size: 30px;
+}
+h1,
+h3 {
+  font-family: "Georama", sans-serif;
+}
+.layout {
+ background-color: black;
+color: white;
 }

@@ -34,12 +34,7 @@ h3 {
   font-family: "Georama", sans-serif;
 }
 .layout {
-  border: solid;
-  padding: 5px;
-  display: flex;
-  justify-content: center;
-  color: white;
-  background-color: black;
+  display: inline
 }
 h3 {
   font-size: 2em;

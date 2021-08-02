@@ -2,7 +2,7 @@
   text-align: center;
   font-family: "Gowun Dodum", sans-serif;
 }
-/* on hold code 
+/* 
 #button1 {
   text-align: center;
   background-color: #87CEFA;
@@ -69,20 +69,21 @@ h3 {
 }
 h3 {
   font-size: 2em;
-  background-color:grey;
+  background-color: grey;
   display: block;
   border: 1px outset black;
   padding: 15px;
   color: white;
 }
-a:hover {
-  color: white;
-}
+
 h1 {
   font-size: 3em;
-  
 }
 summary {
   font-size: 1em;
-  
+}
+a,
+a:hover {
+  color: white;
+  text-decoration: none;
 }

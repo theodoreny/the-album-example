@@ -34,8 +34,13 @@ h3 {
   font-family: "Georama", sans-serif;
 }
 .layout {
-  display: inline
-}
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  background-color: black;
+  color: white;
+ }
 h3 {
   font-size: 2em;
   background-color: grey;

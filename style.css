@@ -33,14 +33,15 @@ h1,
 h3 {
   font-family: "Georama", sans-serif;
 }
-.layout {
-  display: inline-block;
+/*.layout {
+  display: flex;
   text-align: center;
   padding: 10px;
   margin: 0;
   background-color: black;
   color: white;
- }
+    
+ }*/
 h3 {
   font-size: 2em;
   background-color: grey;
@@ -53,9 +54,7 @@ h3 {
 h1 {
   font-size: 3em;
 }
-summary {
-  font-size: 1em;
-}
+
 a,
 a:hover {
   color: white;

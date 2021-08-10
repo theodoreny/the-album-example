@@ -61,3 +61,13 @@ img {
   border-style: solid;
   padding: 1em;
 }
+.about {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+.home {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}

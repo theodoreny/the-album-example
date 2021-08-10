@@ -70,8 +70,12 @@ img {
   text-align: center;
   font-family: 'Oswald', sans-serif;
   font-size: 2em;
+  
 }
 .game-section {
   margin: 1em;
   
+}
+body {
+  background-color: #eee;
 }

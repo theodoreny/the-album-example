@@ -1,8 +1,7 @@
 ul {
   list-style-type: none;
 }
- External CSS */
-body {
+External CSS */ body {
   font-size: 1em;
   color: #444; /* shade of black */
   font-family: Verdana;
@@ -41,12 +40,13 @@ header .layout li a:hover {
   color: yellow;
 }
 
-.product-cards {
+.game {
   display: flex;
   justify-content: space-between;
   flex-flow: wrap;
+  margin: 2em;
 }
-.product-cards .card {
+.game .game-summary {
   width: 30%;
 }
 .product-cards .card h2 {

@@ -48,6 +48,7 @@ header .layout li a:hover {
 }
 .game .game-summary {
   width: 50%;
+  font-family: 'Poppins', sans-serif;
 }
 .product-cards .card h2 {
   color: purple;

@@ -12,7 +12,7 @@ This is a basic HTML starter project you can build on however you like. No need 
 
 ← `contact.html`: contact information to find me
 
-← `about.html` : what my project is about
+← `about.html` : shows my resume and awards
 
 ← `style.css` : CSS stylesheet that customizes the HTML to make it look good
 

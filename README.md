@@ -8,13 +8,13 @@ This is a basic HTML starter project you can build on however you like. No need 
 
 ← `index.html`: The main page of my project
 
-← `project.html`: v
+← `project.html`: video games reviews and summary
 
 ← `contact.html`: contact information to find me
 
 ← `about.html` : what my project is about
 
-← `style.css` : CSS stylesheet that customizes the HTML
+← `style.css` : CSS stylesheet that customizes the HTML to make it look good
 
 ## What have I've learned?
 

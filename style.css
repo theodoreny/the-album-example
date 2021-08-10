@@ -57,7 +57,7 @@ header .layout li a:hover {
 }
 img {
   border-style: solid;
-  padding: 1em;
+  padding: 0.5em;
 }
 .about {
   text-align: center;

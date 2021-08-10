@@ -30,9 +30,6 @@ header .layout li {
   display: inline;
   margin-right: 2em;
 }
-header .layout li:last-child {
-  margin-right: 0;
-}
 header .layout li a {
   color: white;
 }

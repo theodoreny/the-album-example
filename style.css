@@ -47,7 +47,7 @@ header .layout li a:hover {
   margin: 2em;
 }
 .game .game-summary {
-  width: 30%;
+  width: 50%;
 }
 .product-cards .card h2 {
   color: purple;
@@ -56,4 +56,8 @@ header .layout li a:hover {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 10px;
+}
+img {
+  border-style: solid;
+  padding: 1em;
 }

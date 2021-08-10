@@ -5,6 +5,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <!--Fontawesome-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <!-- favicon     -->
     <link
       rel="icon"
@@ -33,11 +41,13 @@
             Contact Info
           </h2>
           <ul>
-            <li><a href="mailto: example@noreply.com">example@noreply.com</a></li>
+            <li>
+              <a href="mailto: example@noreply.com">example@noreply.com</a>
+            </li>
             <li><a href="tel: +1-121-345-6789">1-121-345-6789</a></li>
           </ul>
           <address>
-            134 St Apt 3B<br/>
+            134 St Apt 3B<br />
             Bronx NY 10460
           </address>
         </div>
@@ -47,27 +57,38 @@
           </h2>
           <form>
             <label for="fname">First Name</label>
-            <input type="text" id="fname" name="fname"/>
-            <br/>
+            <input type="text" id="fname" name="fname" />
+            <br />
             <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="lname"/>
-            <br/>
+            <input type="text" id="lname" name="lname" />
+            <br />
+            <select class="form-select" aria-label="Default select example">
+              <option selected>Select City</option>
+              <option value="1">NY</option>
+              <option value="2">CT</option>
+              <option value="3">NJ</option>
+            </select>
+            <br />
             <label for="email">Label</label>
-            <input text="email" id="email" name="email"/>
-            <br/>
+            <input text="email" id="email" name="email" />
+            <br />
             <label for="phone">Phone</label>
-            <input text="text" id="phone" name="phone"/>
-            <br/>
+            <input text="text" id="phone" name="phone" />
+            <br />
             <label for="message">Message</label>
             <textarea row="4" cols="30"></textarea>
-            <br/>
-            <input type="sumbit" value="sumbit" />
-            
-            
-            
+            <br />
+            <input type="sumbit" value="Sumbit" />
           </form>
         </div>
       </div>
     </main>
+    <footer>
+      <ul class="socialmedia">
+        <li><a href="#">YT</a></li>
+        <li><a href="#">GH</a></li>
+        <li><a href="#">FB</a></li>
+      </ul>
+    </footer>
   </body>
 </html>
